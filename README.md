@@ -15,3 +15,4 @@ export default defineConfig({
   plugins: [react()],
   base: '/LearningEnglishwithTara/', // IMPORTANT
 });
+npm run deploy
